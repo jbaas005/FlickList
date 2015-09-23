@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FlickList</string>
+    <string name="main_menu_add">Add movies</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_list_empty">Click the \'+\' icon to add movies!</string>
+    <string name="search_list_empty">Search movies by title!</string>
+    <string name="search_movie">Search movies</string>
+    <string name="title_activity_add_movie">AddMovieActivity</string>
+</resources>
